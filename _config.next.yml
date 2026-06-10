@@ -1,0 +1,49 @@
+scheme: Pisces
+
+menu:
+  home: / || fa fa-home
+  archives: /archives/ || fa fa-archive
+  categories: /categories/ || fa fa-th
+  tags: /tags/ || fa fa-tags
+  about: /about/ || fa fa-user
+  resources: /resources/ || fa fa-book
+
+social:
+
+favicon:
+  small:
+  medium:
+  apple_touch_icon:
+  safari_pinned_tab:
+
+avatar:
+  url:
+  rounded: true
+  rotated: false
+
+toc:
+  enable: true
+  number: true
+  wrap: false
+
+back2top:
+  enable: true
+  sidebar: false
+  scrollpercent: true
+
+reading_progress:
+  enable: true
+  color: '#37c6c0'
+  height: 3px
+
+local_search:
+  enable: false
+
+footer:
+  since: 2026
+  icon:
+    name: fa fa-heart
+    animated: false
+    color: '#808080'
+  copyright: true
+  powered: true
