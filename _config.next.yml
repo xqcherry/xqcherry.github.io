@@ -9,6 +9,8 @@ menu:
   resources: /resources/ || fa fa-book
 
 social:
+  GitHub: https://github.com/xqcherry || fab fa-github
+  E-Mail: mailto:xqcherry@foxmail.com || fa fa-envelope
 
 favicon:
   small:
@@ -17,7 +19,7 @@ favicon:
   safari_pinned_tab:
 
 avatar:
-  url:
+  url: /images/avatar.png
   rounded: true
   rotated: false
 
