@@ -4,3 +4,4 @@ public/
 db.json
 .DS_Store
 npm-debug.log*
+_private_diary/
