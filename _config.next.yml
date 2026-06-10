@@ -42,6 +42,15 @@ reading_progress:
   color: '#37c6c0'
   height: 3px
 
+busuanzi_count:
+  enable: true
+  total_visitors: true
+  total_visitors_icon: fa fa-user
+  total_views: true
+  total_views_icon: fa fa-eye
+  post_views: true
+  post_views_icon: far fa-eye
+
 pace:
   enable: true
   color: green
