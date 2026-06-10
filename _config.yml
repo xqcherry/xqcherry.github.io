@@ -6,7 +6,7 @@ author: 博客作者
 language: zh-CN
 timezone: Asia/Shanghai
 
-url: https://example.github.io
+url: https://xqcherry.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
