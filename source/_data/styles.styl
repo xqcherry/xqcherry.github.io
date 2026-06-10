@@ -1,15 +1,24 @@
 body
   background: linear-gradient(135deg, #f8fbff 0%, #eefaf8 45%, #f7fbff 100%)
+  background-attachment: fixed
+  background-color: #f7fbff
+  min-height: 100vh
 
 body > canvas
   position: fixed !important
+  inset: 0 !important
+  width: 100vw !important
+  height: 100vh !important
   z-index: 0 !important
+  pointer-events: none
 
 .header,
 .main,
 .footer,
 .sidebar,
-.sidebar-toggle,
-.back-to-top
+.sidebar-toggle
   position: relative
   z-index: 1
+
+.back-to-top
+  z-index: 30
