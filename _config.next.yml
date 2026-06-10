@@ -47,5 +47,5 @@ footer:
     name: fa fa-heart
     animated: false
     color: '#808080'
-  copyright: true
-  powered: true
+  copyright: xqcherry
+  powered: false
