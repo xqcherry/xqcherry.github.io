@@ -1,5 +1,9 @@
 scheme: Pisces
 
+custom_file_path:
+  bodyEnd: source/_data/body-end.njk
+  style: source/_data/styles.styl
+
 menu:
   home: / || fa fa-home
   archives: /archives/ || fa fa-archive
@@ -37,6 +41,11 @@ reading_progress:
   enable: true
   color: '#37c6c0'
   height: 3px
+
+pace:
+  enable: true
+  color: green
+  theme: minimal
 
 local_search:
   enable: false

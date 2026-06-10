@@ -12,6 +12,9 @@
     "server": "hexo server"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^7.2.0",
+    "animejs": "^4.4.1",
+    "canvas-nest.js": "^2.0.4",
     "hexo": "^7.3.0",
     "hexo-cli": "^4.3.2",
     "hexo-generator-archive": "^2.0.0",
@@ -21,6 +24,8 @@
     "hexo-renderer-marked": "^7.0.1",
     "hexo-renderer-stylus": "^3.0.1",
     "hexo-server": "^3.0.0",
-    "hexo-theme-next": "^8.24.0"
+    "hexo-theme-next": "^8.24.0",
+    "pace-js": "^1.2.4",
+    "velocity-animate": "^1.5.2"
   }
 }
