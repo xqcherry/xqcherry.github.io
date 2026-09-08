@@ -2,7 +2,6 @@
 title: QA MinIO 存储
 date: 2026-09-06 21:24:00
 categories:
-  - 笔记
   - 实习项目
 tags:
   - jiujiu

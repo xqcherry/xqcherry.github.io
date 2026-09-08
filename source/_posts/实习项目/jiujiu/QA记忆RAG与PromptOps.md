@@ -2,7 +2,6 @@
 title: QA 长期记忆 RAG 与 PromptOps
 date: 2026-09-06 21:16:00
 categories:
-  - 笔记
   - 实习项目
 tags:
   - jiujiu

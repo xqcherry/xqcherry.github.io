@@ -2,7 +2,6 @@
 title: QA 产品开场与云上运维
 date: 2026-09-06 20:47:00
 categories:
-  - 笔记
   - 实习项目
 tags:
   - jiujiu

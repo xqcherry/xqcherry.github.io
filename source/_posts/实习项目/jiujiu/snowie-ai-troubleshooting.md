@@ -2,7 +2,6 @@
 title: snowie-ai-troubleshooting
 date: 2026-07-12 17:12:31
 categories:
-  - 笔记
   - 实习项目
 tags:
   - jiujiu

@@ -2,7 +2,6 @@
 title: snowie-ai-ops-notes
 date: 2026-07-12 16:57:31
 categories:
-  - 笔记
   - 实习项目
 tags:
   - jiujiu

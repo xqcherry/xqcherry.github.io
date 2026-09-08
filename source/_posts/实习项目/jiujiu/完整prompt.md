@@ -2,7 +2,6 @@
 title: prompt管理
 date: 2026-06-12 17:45:47
 categories:
-  - 笔记
   - 实习项目
 tags:
   - jiujiu

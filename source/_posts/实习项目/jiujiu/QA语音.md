@@ -2,7 +2,6 @@
 title: QA 语音通话链路
 date: 2026-09-06 21:00:00
 categories:
-  - 笔记
   - 实习项目
 tags:
   - jiujiu
