@@ -1,5 +1,5 @@
 ---
-title: 完整prompt
+title: prompt管理
 date: 2026-06-12 17:45:47
 categories:
   - 笔记
