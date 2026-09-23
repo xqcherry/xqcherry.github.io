@@ -5,3 +5,5 @@ type: resources
 ---
 
 这里暂时保留，用来整理常用链接、书单、工具、课程资料和其他长期维护的内容。
+
+文档框架: https://theme-hope.vuejs.press/zh/
